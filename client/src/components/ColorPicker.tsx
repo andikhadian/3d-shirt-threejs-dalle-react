@@ -1,4 +1,4 @@
-import { SketchPicker, BlockPicker } from 'react-color'
+import { BlockPicker } from 'react-color'
 import { useSnapshot } from 'valtio'
 
 import state from '../store'
